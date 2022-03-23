@@ -1,4 +1,4 @@
-# Exploring_NBA_DATA_KNN_Classification
+# Exploring_NBA_DATA_KMEANS_CLUSTERING
 
 Data used from basketball reference.
 Link - https://www.basketball-reference.com/leagues/NBA_2021_per_game.html
@@ -36,4 +36,4 @@ TOV -- Turnovers Per Game
 PF -- Personal Fouls Per Game
 PTS -- Points Per Game
 
-In this project, I try to cluster nba players by using KNN classification and also use linear regression to understand the relationship between TRB and DRB. The data is cleaned by removing missing data and removing players who played less than 10 games. 
+In this project, I try to cluster nba players by using KMEANS and also use linear regression to understand the relationship between TRB and DRB. The data is cleaned by removing missing data and removing players who played less than 10 games. 
